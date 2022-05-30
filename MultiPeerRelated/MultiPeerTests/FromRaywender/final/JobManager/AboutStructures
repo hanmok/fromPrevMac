@@ -1,0 +1,25 @@
+
+SwiftUI -> Swift
+
+JoinSessionView
+    ChatView
+        ChatListView
+            MessageBodyView
+                TimestampView
+                
+        ChatInfoView
+        chatParticipants
+
+
+
+
+ChatConnectionManager
+
+
+
+
+Storyboard -> Code
+
+근데, 굳이 따라서 만들 필요 없음.
+
+알아서 적당히 잘 만들면 됨.
